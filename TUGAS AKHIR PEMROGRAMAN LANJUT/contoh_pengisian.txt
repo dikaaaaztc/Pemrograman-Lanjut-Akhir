@@ -1,0 +1,12 @@
+# contoh pengisiannya
+
+# Masukkan tipe program (S1/S2): S1
+# Masukkan ID program: 102
+# Masukkan nama program: TEKNIK INFORMATIKA
+# Masukkan durasi program (tahun): 4
+# Masukkan nama mahasiswa: Andhika Kurniawan
+# Masukkan umur mahasiswa: 20
+# Masukkan tingkat pendidikan (S1/S2): S1
+# Nama: Andhika Kurniawan, Umur: 20, Program: TEKNIK INFORMATIKA (ID: 102), Durasi: 4 tahun
+# Masukkan nama kursus yang ingin didaftarkan: Pemrograman lanjut
+# Andhika Kurniawan telah mendaftar di kursus Pemrograman lanjut.
